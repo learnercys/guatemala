@@ -2,7 +2,8 @@
   "name": "guatemala",
   "description": "NodeSchool/guatemala Landing Page",
   "version": "1.0.0",
-  "author": "Carlos Hernandez<learnercys@gmail.com>",
+  "author": "Carlos Hernandez <learnercys@gmail.com>",
+  "contributors": [],
   "dependencies": {
     "gatsby": "^1.9.73",
     "gatsby-link": "^1.6.22",
